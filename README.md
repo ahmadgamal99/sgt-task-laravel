@@ -15,4 +15,6 @@
 
 7 - npm run build
 
-8 - php artisan serve
+8 - php artisan storage:link
+
+9 - php artisan serve
